@@ -1,0 +1,10 @@
+{
+    "audio1": {
+        "CLIENT_ID": "クライアント１",
+        "TOKEN": "token１"
+    },
+    "audio2": {
+        "CLIENT_ID": "クライアント２",
+        "TOKEN": "token２"
+    }
+}
